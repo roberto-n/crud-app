@@ -1,0 +1,14 @@
+models
+cursos 
+alunos 
+matriculas
+
+controlers
+cursos
+alunos
+matriculas
+
+views
+cursos
+alunos
+matriculas
