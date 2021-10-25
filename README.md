@@ -1,2 +1,2 @@
 # crud-app
- test php pleno 
+ Back-end para plataforma de cadastro de cursos e alunos 
